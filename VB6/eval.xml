@@ -1,0 +1,43 @@
+<radarsim>
+<course name="APPS" duration="2023/09/12-2023/09/23">
+<time begin="12:23:34 2023-09-12" end="12:43:34 2023-09-12">
+	<instructor>A</instructor>
+	<trainee></trainee>
+	<blipdriver1></blipdriver1>
+	<blipdriver2></blipdriver2>
+	<traffic_handled no="12"></traffic_handled>
+	<rate_of_speech score="23">description</rate_of_speech>
+	<phraseology score="23">description</phraseology>
+	<near_missed no="2">description</near_missed>
+	<IAP_STAR score="4" IAP="OIII">description</IAP_STAR>
+	<AREAS score="4">description</AREAS>
+	<met_knowledge score="4">description</met_knowledge>
+</time>
+<time begin="12:50:34 2023-09-12" end="12:59:34 2023-09-12">
+	<instructor>B</instructor>
+	<trainee></trainee>
+	<blipdriver1></blipdriver1>
+	<blipdriver2></blipdriver2>
+	<traffic_handled no="12"></traffic_handled>
+	<rate_of_speech score="23">description</rate_of_speech>
+	<phraseology score="23">description</phraseology>
+	<near_missed no="2">description</near_missed>
+	<IAP_STAR score="4" IAP="OIII">description</IAP_STAR>
+	<AREAS score="4">description</AREAS>
+	<met_knowledge score="4">description</met_knowledge>
+</time>
+<time begin="13:50:34 2023-09-12" end="13:59:34 2023-09-12">
+	<instructor>C</instructor>
+	<trainee></trainee>
+	<blipdriver1></blipdriver1>
+	<blipdriver2></blipdriver2>
+	<traffic_handled no="12"></traffic_handled>
+	<rate_of_speech score="23">description</rate_of_speech>
+	<phraseology score="23">description</phraseology>
+	<near_missed no="2">description</near_missed>
+	<IAP_STAR score="4" IAP="OIII">description</IAP_STAR>
+	<AREAS score="4">description</AREAS>
+	<met_knowledge score="4">description</met_knowledge>
+</time>
+</course>
+</radarsim>
